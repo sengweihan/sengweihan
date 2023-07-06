@@ -12,7 +12,6 @@ If you have any exciting web development opportunities or if you'd like to conne
 
 
 ## Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="24" height="24" /> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 ## Contact
 LinkedIn: https://www.linkedin.com/in/seng-wei-han-733409209/ 
