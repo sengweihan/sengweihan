@@ -1,4 +1,4 @@
-# About Me 🚀
+## About Me 🚀
 
 ### Hi there, I'm Seng Wei Han 👋
 
@@ -11,3 +11,7 @@ I believe in the power of collaboration and continuous learning💪💪, and I'm
 If you have any exciting web development opportunities or if you'd like to connect, feel free to reach out. Let's create amazing web experiences together!🙌🙌
 
 
+## Skills
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/seng-wei-han-733409209/ 
