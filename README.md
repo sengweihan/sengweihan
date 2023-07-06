@@ -11,5 +11,5 @@ I believe in the power of collaboration and continuous learning 💪💪, and I'
 If you have any exciting web development opportunities or if you'd like to connect, feel free to reach out. Let's create amazing web experiences together! 🙌🙌
 
 
-## Skills
+## Skills 🛠
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/> 
