@@ -12,7 +12,7 @@ If you have any exciting web development opportunities or if you'd like to conne
 
 
 ## Skills
-<img src="images/html.png" width="100" > <img src="images/css.png" width="100" height="155"> <img src="images/python.jpg" width="100" height="155" >
+<img src="images/html.png"  > <img src="images/css.png" > <img src="images/python.jpg" >
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/seng-wei-han-733409209/ 
