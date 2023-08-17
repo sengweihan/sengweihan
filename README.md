@@ -22,11 +22,3 @@ If you have any exciting web development opportunities or if you'd like to conne
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50"/>
 
-
-## My Stats ⚡
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=sengweihan&show_icons=true&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sengweihan&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengweihan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
